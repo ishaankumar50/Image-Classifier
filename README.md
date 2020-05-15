@@ -3,5 +3,7 @@
 
 - This is an image classifier trained on flower images using neural networks.
 
+The dataset is provided bu udacity.
+
 - Built using pytorch
 
